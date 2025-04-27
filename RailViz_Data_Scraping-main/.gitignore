@@ -1,0 +1,11 @@
+*.ipynb
+*.log
+*.zip
+*.txt
+archive/
+chromedriver-linux64/
+logs/
+category_data.csv
+category_data_filtered.csv
+master_data.csv
+master_data_filtered.csv
